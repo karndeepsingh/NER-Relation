@@ -1,4 +1,5 @@
-# spacy_ner_relation
+# NER-RELATION
+
 This Binary Converter will work for data annotated with Label studio for relation extraction
 
 
